@@ -60,7 +60,7 @@ randomimage.jpg
 ---------------
 ![randomimage.jpg](https://raw.githubusercontent.com/mpoc/EE-sample-images/master/randomimage.jpg)
 
-Source: Generated using the following Java code (code adapted from [How to create a random pixel image in Java](https://www.dyclassroom.com/image-processing-project/how-to-create-a-random-pixel-image-in-java):
+Source: Generated using the following Java code (code adapted from [How to create a random pixel image in Java](https://www.dyclassroom.com/image-processing-project/how-to-create-a-random-pixel-image-in-java)):
 
 ```
 /**
@@ -137,6 +137,8 @@ rays.jpg
 --------
 ![rays.jpg](https://raw.githubusercontent.com/mpoc/EE-sample-images/master/rays.jpg)
 
-Sources: ASUNI N, GIACHETTI A, "TESTIMAGES: A Large Data Archive For Display and Algorithm Testing", Journal of Graphics Tools, Volume 17, Issue 4, 2015, pages 113-125, DOI:10.1080/2165347X.2015.1024298
+Sources:
+
+ASUNI N, GIACHETTI A, "TESTIMAGES: A Large Data Archive For Display and Algorithm Testing", Journal of Graphics Tools, Volume 17, Issue 4, 2015, pages 113-125, DOI:10.1080/2165347X.2015.1024298
 
 ASUNI N, GIACHETTI A, "TESTIMAGES: a large-scale archive for testing visual devices and basic image processing algorithms", STAG - Smart Tools & Apps for Graphics Conference, 2014.
